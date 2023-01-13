@@ -1,0 +1,21 @@
+.list {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0 0.5rem;
+    padding: 0.8rem;
+    border-radius: 1rem;
+
+    font-weight: 300;
+    font-size: 1.2rem;
+    line-height: 2.1rem;
+    color: #000000;
+
+}
+
+.name-header {
+    font-weight: 400;
+    font-size: 1.8rem;
+    line-height: 2.1rem;
+    color: #000000;
+    margin-bottom: 1.7rem;
+}
